@@ -1,0 +1,7 @@
+name = "sentimental_analysis"
+version = "0.1.0"
+authors = [""]
+
+[[programs]]
+path = "src/sentimental_analysis.py"
+prime_size = 128
